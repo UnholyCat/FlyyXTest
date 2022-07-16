@@ -1,0 +1,96 @@
+[
+    {
+        "sequence": 1,
+        "title": "Kánguroo",
+        "showSearch": true,
+        "tabIcon": "house",
+        "tabTitle": "Home",
+        "sections": [
+            {
+                "sectionType": "TOP",
+                "sectionTitle": "Recommended",
+                "cells":[
+                    {
+                        "image": "bengaluruPalace",
+                        "imageSubtitleIcon": "pinLocation",
+                        "imageSubtitle": "Av. Paseo La Toscana 122,..",
+                        "subtitle1": "Dev n",
+                        "subtitle2": "Buy",
+                        "title": "2BD/1BA 2 bedrooms",
+                        "subtitle3": "Cima Park",
+                        "subtitle4": "$ 3M"
+                    },
+                    {
+                        "image": "vidhanasoudha",
+                        "imageSubtitleIcon": "pinLocation",
+                        "imageSubtitle": "Av. Juan Polar....",
+                        "subtitle1": "New Dev",
+                        "subtitle2": "Buy",
+                        "title": "1BD/1BA 4 bedrooms",
+                        "subtitle3": "Latitude Provider",
+                        "subtitle4": "$ 11M"
+                    },
+                    {
+                        "image": "nandiHillPeak",
+                        "imageSubtitleIcon": "pinLocation",
+                        "imageSubtitle": "Nandi Hills",
+                        "subtitle1": "Dev n",
+                        "subtitle2": "Buy",
+                        "title": "2BD/1BA 2 bedrooms",
+                        "subtitle3": "Cima Park",
+                        "subtitle4": "$ 3M"
+                    }
+                ]
+            },
+            {
+                "sectionType": "BOTTOM",
+                "sectionTitle": "Top Developers",
+                "cells":[
+                    {
+                        "image": "gear",
+                        "subtitle1": "0",
+                        "subtitle2": "Properties",
+                        "subtitle3": "Ramón Escobar",
+                        "subtitle4": "year estb."
+                    },
+                    {
+                        "image": "gear",
+                        "subtitle1": "0",
+                        "subtitle2": "Properties",
+                        "subtitle3": "Ramón Escobar",
+                        "subtitle4": "year estb."
+                    },
+                    {
+                        "image": "gear",
+                        "subtitle1": "0",
+                        "subtitle2": "Properties",
+                        "subtitle3": "Ramón Escobar",
+                        "subtitle4": "year estb."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sequence": 2,
+        "title": "Kánguroo",
+        "showSearch": true,
+        "tabIcon": "",
+        "tabTitle": "Chats"
+    },
+    {
+        "sequence": 3,
+        "title": "Kánguroo",
+        "showSearch": true,
+        "tabIcon": "",
+        "tabTitle": "Notifications"
+    },
+    {
+        "sequence": 4,
+        "title": "Kánguroo",
+        "showSearch": true,
+        "tabIcon": "",
+        "tabTitle": "profile"
+    }
+]
+
